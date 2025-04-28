@@ -1,4 +1,7 @@
 # 👋 Hi there, I'm Katarina Wang!
+<table>
+<tr>
+<td>
 
 ## About Me
 I'm a Master's student at the University of Chicago, studying Applied Data Science (MSADS).  
@@ -12,7 +15,19 @@ Passionate about leveraging data to drive intelligent systems and strategic deci
 - Asset Management  
 - Always learning and exploring new horizons 🚀
 
+</td>
+<td>
+
+<p align="right">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Coding Animation">
+</p>
+
+</td>
+</tr>
+</table>
+
 ---
+
 
 ## 📚 Skillsets
 **Certificates:**  
