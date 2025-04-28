@@ -18,19 +18,26 @@
 
 ---
 
-## 🛠️ Tech Stack
-- Python (Pandas, NumPy, Scikit-Learn, PyTorch, TensorFlow, XGBoost, CatBoost, LightGBM)
-- SQL, Snowflake
-- Git, Linux
-- AWS (S3, EC2)
+💼 Skillsets
+📜 Certificates
+CFA Level II Passed (Top 10%)
 
+FRM Level I Candidate
+
+🖥️ Programming Languages
+
+🛠️ Python Libraries
+
+🌐 Web Development
+
+🗄️ Databases
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+🚀 Latest Projects
+- 🖼️ Image Captioning (CNN + Transformer)
+- 📊 Walmart Store Sales Forecasting (Time Series)
+- 💳 Fraud Risk Modeling for Financial Transactions
+- 📈 Multi-Asset Portfolio Allocation
 
 ---
 
