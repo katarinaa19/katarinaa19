@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi there, I'm Katarina!
+
+🚀 I'm passionate about building intelligent systems and unlocking insights from data.  
+💻 Specialties:  
+- Data Science
+- Machine Learning
+- LLM Fine-Tuning
+- Risk Modeling
+- Time Series Forecasting
+- Asset Management
+
+---
+
+## 🚀 Current Focus
+- Fine-tuning Large Language Models (LLMs) for downstream tasks
+- Developing robust time series forecasting models
+- Exploring applications of ML in risk and asset management
+
+---
+
+## 🛠️ Tech Stack
+- Python (Pandas, NumPy, Scikit-Learn, PyTorch, TensorFlow, XGBoost, CatBoost, LightGBM)
+- SQL, Snowflake
+- Git, Linux
+- AWS (S3, EC2)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
 
 <!--
-**katarinaa19/katarinaa19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Optional Sections:
+## 📝 Latest Projects
+- [Project 1](#) - Short description
+- [Project 2](#) - Short description
+- [Project 3](#) - Short description
 -->
+
