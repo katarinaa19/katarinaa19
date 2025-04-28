@@ -1,51 +1,39 @@
-# 👋 Hi there, I'm Katarina!
+# 👋 Hi there, I'm Katarina Wang!
 
-🚀 I'm passionate about building intelligent systems and unlocking insights from data.  
-💻 Specialties:  
-- Data Science
-- Machine Learning
-- LLM Fine-Tuning
-- Risk Modeling
-- Time Series Forecasting
-- Asset Management
+## About Me
+I'm a Master's student at the University of Chicago, studying Applied Data Science (MSADS).  
+Passionate about leveraging data to drive intelligent systems and strategic decision-making.
 
----
-
-## 🚀 Current Focus
-- Fine-tuning Large Language Models (LLMs) for downstream tasks
-- Developing robust time series forecasting models
-- Exploring applications of ML in risk and asset management
+💻 **Specialties**  
+- Data Science & Machine Learning  
+- LLM Fine-Tuning  
+- Risk Modeling  
+- Time Series Forecasting  
+- Asset Management  
+- Always learning and exploring new horizons 🚀
 
 ---
 
-💼 Skillsets
-📜 Certificates
-CFA Level II Passed (Top 10%)
+## 📚 Skillsets
+**Certificates:**  
+- CFA Level II Passed (Top 10%)  
+- FRM Level I Candidate  
 
-FRM Level I Candidate
+**Programming Languages:**  
+- Python, SQL (filtering, aggregation, window functions, optimization queries), R, HTML, Excel VBA
 
-🖥️ Programming Languages
+**Software & Tools:**  
+- Bloomberg Terminal, Power BI, Tableau, MongoDB, Snowflake, PySpark  
+- Microsoft Access & Office (Excel, Word, PowerPoint, Outlook), AWS (S3, EC2), Hadoop, Postgres, MySQL, Docker, Git  
 
-🛠️ Python Libraries
-
-🌐 Web Development
-
-🗄️ Databases
----
-
-🚀 Latest Projects
-- 🖼️ Image Captioning (CNN + Transformer)
-- 📊 Walmart Store Sales Forecasting (Time Series)
-- 💳 Fraud Risk Modeling for Financial Transactions
-- 📈 Multi-Asset Portfolio Allocation
+**Frameworks & Libraries:**  
+- scikit-learn, TensorFlow, Keras, XGBoost, LightGBM, CatBoost, Statsmodels, Prophet, matplotlib, seaborn, pandas, NumPy
 
 ---
 
-<!--
-Optional Sections:
-## 📝 Latest Projects
-- [Project 1](#) - Short description
-- [Project 2](#) - Short description
-- [Project 3](#) - Short description
--->
+## 🚀 Latest Projects
+- 🖼️ [**Image Captioning**](https://github.com/katarinaa19/Image-Captioning): Developed a deep learning pipeline combining CNN and Transformer models.  
+- 📊 [**Walmart Store Sales Forecasting**](https://github.com/katarinaa19/Walmart-Store-Sales-Forecasting): Built and optimized time series models for retail demand prediction.  
+- 💳 [**Fraud Risk Modeling**](https://github.com/katarinaa19/Fraud-Risk-Modeling-for-Financial-Transactions): Designed models to detect fraudulent financial transactions using advanced feature engineering and ensemble methods.  
+- 📈 [**Multi-Asset Portfolio Allocation**](https://github.com/katarinaa19/Multi-Asset-Portfolio-Allocation): Applied Markowitz and risk-parity frameworks for strategic asset management.
 
