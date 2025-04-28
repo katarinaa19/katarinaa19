@@ -42,7 +42,7 @@ Passionate about leveraging data to drive intelligent systems and strategic deci
 - Microsoft Access & Office (Excel, Word, PowerPoint, Outlook), AWS (S3, EC2), Hadoop, Postgres, MySQL, Docker, Git  
 
 **Frameworks & Libraries:**  
-- scikit-learn, TensorFlow, Keras, XGBoost, LightGBM, CatBoost, Statsmodels, Prophet, matplotlib, seaborn, pandas, NumPy
+- Hugging Face Transformers, datasets, bitsandbytes, scikit-learn, TensorFlow, Keras, XGBoost, LightGBM, CatBoost, Statsmodels, Prophet, matplotlib, seaborn, pandas, NumPy
 
 ---
 
