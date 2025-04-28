@@ -19,7 +19,7 @@ Passionate about leveraging data to drive intelligent systems and strategic deci
 <td>
 
 <p align="right">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Coding Animation">
+  <img src="https://media.giphy.com/media/uVgqFuSbAQ15tV1NsK/giphy.gif" width="300" alt="Happy Dino Sally">
 </p>
 
 </td>
